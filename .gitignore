@@ -1,0 +1,17 @@
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+env/
+venv/
+
+# Fichiers de configuration locaux
+*.env
+*.log
+.DS_Store
+
+# Autres fichiers temporaires
+*.sqlite3
